@@ -27,11 +27,11 @@ defaults:
 
 
 
-title: "bit-ranger"
+title: "谢丹婷"
 email: 974193605@gmail.com
 description: ""
 github:
-  username: bit-ranger
+  username: 谢丹婷
 swiftype:
   searchId: iXZyPokVfxFaBTvi64Y6
 gitment:
@@ -39,7 +39,7 @@ gitment:
     client_id: a6fb73b3e790e234bab8
     client_secret: cc10aaff53a03d05ab2ee002dbf401dd7627c7a3
 
-url: "https://xiedanting55.github.io/blog"
+url: "https://xiedanting55.github.io"
 imgrepo: "https://xiedanting55.github.io/static/img"
 
 
